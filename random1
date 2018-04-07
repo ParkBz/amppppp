@@ -1,0 +1,9 @@
+<html>
+<title>random</title>
+<body>
+<?php
+  echo "YOU ARE TEH LUCKY ONE!!!";</br>
+  <input type="button" value="Pick ME!" name="random">
+?>
+</body>
+</html>
